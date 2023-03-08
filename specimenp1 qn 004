@@ -1,0 +1,5 @@
+number = input()
+if int(number) > 50:
+    print("yes dream big")
+elif int(number) < 50:
+    print("on the small side")
