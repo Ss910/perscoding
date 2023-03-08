@@ -1,0 +1,7 @@
+number_1 = int(input())
+x = input()
+number_2 = int(input())
+if x == "+" :
+    print(number_1 + number_2)
+elif x == "*" :
+    print(number_1 * number_2)
